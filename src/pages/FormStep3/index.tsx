@@ -1,4 +1,4 @@
-import * as C from './styles.ts';
+import * as C from './styles';
 
 export const FormStep3 = () => {
     return(
